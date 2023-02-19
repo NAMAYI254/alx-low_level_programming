@@ -5,7 +5,8 @@
 /**
  * main - determines if a numer is +ve or -ve or zero
  *
- * returns (succes)
+ * return: Always (succes)
+ *
  */
 int main(void)
 {
